@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 22 16:59:31 2023
+https://github.com/liwenz/obs-scenes-collection-transfer
 
 @author: leon
 """
