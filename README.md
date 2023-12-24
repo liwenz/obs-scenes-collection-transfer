@@ -15,7 +15,9 @@ At first: mkdir c:\church
 eg python obs-scenescollection.py \jupyter\tcmc.json c:\church tcmc2.json
 
 Then:
+
 C:\python>python obs-scenescollection.py \jupyter\tcmc.json
+
 from:  \jupyter\tcmc.json
 
 C:/Users/Dmatt/Downloads 主祷文  The Lord's Prayer.mp4
